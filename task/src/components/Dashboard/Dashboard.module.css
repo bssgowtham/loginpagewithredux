@@ -1,0 +1,51 @@
+.Dashboard {
+    width: 100%;
+    height: 670px;
+}
+
+.Dashboard li {
+    margin-left: 20px;
+}
+
+.Img {
+    width: 100%;
+    height: 605px;
+}
+
+.Table table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.Export {
+    text-align: center;
+    font-weight: bold;
+}
+
+.Button {
+    align-self: center;
+}
+
+
+/* @media (min-width: 1000px) and (min-height: 700px) {
+    .Dashboard {
+        width: 700px;
+        height: 600px;
+    }
+}
+
+@media (min-width: 500px) and (min-height: 401px) {
+    .Dashboard {
+        width: 450px;
+        height: 400px;
+    }
+}
+
+@media (min-width: 500px) and (min-height: 400px) {
+    .Dashboard {
+        width: 350px;
+        height: 300px;
+    }
+} */
